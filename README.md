@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit586&label=Profile%20views&color=0e75b6&style=flat" alt="garvit586" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms with Object oriented Programming and React**
+- 🌱 I’m currently learning **Data Structures and Algorithms with java, Object oriented Programming and React**
 
 - 👨‍💻 All of my projects are available at [https://garvit586.github.io/Portfolio/resume/resume.html](https://garvit586.github.io/Portfolio/resume/resume.html)
 
@@ -27,7 +27,7 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvit586&show_icons=true&locale=en&layout=compact" alt="garvit586" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvit586&show_icons=true&locale=en" alt="garvit586" /></p>
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvit586&show_icons=true&locale=en" alt="garvit586" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvit586&" alt="garvit586" /></p>
 
