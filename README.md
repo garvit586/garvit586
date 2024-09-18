@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Gupta</h1>
-<h3 align="center">A pre-final year student pursuing my B.tech in Computer science and engineering . I love exploring every and every field I can get my hands over and try to learn as much as possible. <br/>“Engineers like to solve problems. If there are no problems handily available, they will create their own problems.”</h3>
+<h3 align="center">Data Scientist specializing in Data Analysis, machine learning, deep learning for image detection, Python backend development, and deployment. Led impactful projects at Zypp, optimizing operations and enhancing user experience. Skilled in Python, TensorFlow, PyTorch, and data visualization tools. Passionate about leveraging data science to drive innovation and solve real-world problems. Proven ability to deliver actionable insights and collaborate effectively in cross-functional teams. Seeking a challenging role where I can apply my skills, contribute to cutting-edge projects, and make a significant impact.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit586&label=Profile%20views&color=0e75b6&style=flat" alt="garvit586" /> </p>
 
